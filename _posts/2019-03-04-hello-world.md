@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: 'Hello World'
 date: 2019-03-04
 ---
 # Hello World
